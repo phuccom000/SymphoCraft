@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "blocks/iron_block",
+        "front": "spgm:blocks/gear_constructor",
+        "side": "blocks/iron_block"
+    }
+}
