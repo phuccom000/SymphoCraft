@@ -1,0 +1,12 @@
+//Container
+container.gear_constructor.name=Gear Constructor
+
+//Items
+item.symphogear_pendant.name=Symphogear Pendant
+item.singasteinn.name=Singasteinn Ingot
+item.base_pendant.name=Empty Pendant
+
+
+//Blocks
+tile.singasteinn_block.name=Block of Singasteinn
+tile.gear_constructor.name=Gear Constructor
